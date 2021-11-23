@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis and Database in general.
 - 🌱 I’m currently learning Data Goverance bootcamp with coding dojo, lets be a black belt Ninja! o7
 - 📫 How to reach me? You can contact through email: Raghadtareqha@hotmail.com
+- ✨ My Tableau Page: public.tableau.com/app/profile/raghad2277 
 
 <!---
 raghadx/raghadx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
